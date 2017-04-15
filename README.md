@@ -10,12 +10,11 @@ xsel
 xwininfo  
 
 ## Usage  
-./yukaCmd.sh [STRING]
-./yukaCmd.sh [-f] [FILE]
-例
+./yukaCmd.sh [STRING]  
+./yukaCmd.sh [-f] [FILE]  
+### 例  
 $./yukaCmd.sh "はじめてのりなっくす"
-
-補足
+### 補足  
 example/src下はサンプルコードです。
 
 ## Install  
