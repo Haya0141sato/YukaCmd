@@ -10,10 +10,13 @@ xsel
 xwininfo
 
 ##Usage
-./YukaCmd.sh [STRING]
-./YukaCmd.sh [-f] [FILE]
-###example
-$./YukaCmd.sh "はじめてのりなっくす"
+./yukaCmd.sh [STRING]
+./yukaCmd.sh [-f] [FILE]
+例
+$./yukaCmd.sh "はじめてのりなっくす"
+
+補足
+example/src下はサンプルコードです。
 
 ##Install
-Requirementに書いてあるコマンドをインストールし、スクリプトをダウンロードすればいいです。
+Requirementに書いてあるコマンドをインストールし、スクリプトを実行すればいいです。
