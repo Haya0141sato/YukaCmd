@@ -2,10 +2,10 @@
 
 ## Overview
 bash及びXWindowSystemが使える環境で、wine上などで動かしているVOICEROID+ 結月ゆかりをコマンドラインからしゃべらせるスクリプトです。
-MITライセンスで配るので、改修できる方にいろいろなおしてもらえれば嬉しいです。 
+MITライセンスで配るので、改修できる方にいろいろなおしてもらえれば嬉しいです。 (特にEXや他ボイロへの対応とか)
 
 ## Requirement  
-xdotool4  
+xdotool  
 xsel  
 xwininfo  
 
